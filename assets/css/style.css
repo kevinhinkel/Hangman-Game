@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #F0F8FF;
+	font-size: 18px;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #777;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url(https://i.pinimg.com/originals/66/48/1f/66481f1ebd864d4f3e497b50b591fe09.jpg);
+    background-size: 37%;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    background-repeat: repeat;
+	color: #ffff00;
+	font-family: 'Carter One', cursive;
+	text-align: center;
+}
+
